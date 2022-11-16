@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Timlhsite.05'
-description: "Hello, my name is Tim : Bonjour je m'appelle Tim. I create the site for put in my social networks : J'ai crée ce site pour y mettre mes réseaux sociaux. I also put in a link, for credit people who : J'ai mis un lien pour les crédits et les remerciements"
+description: "Hello, my name is Tim, I create the site for put in my social networks. I also put in a link, for credit people who"
 
 # Images
 avatar: 'avatar.jpg.webp'
