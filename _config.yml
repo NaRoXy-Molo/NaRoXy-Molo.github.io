@@ -11,6 +11,7 @@ background: 'background.jpg.jpg'
 favicon: 'avatar.jpg.webp'
 
 # Online profiles
+tiktok: '@naroxy'
 #dribbble: 'mydribbble'
 #facebook: 'myfacebook'
 twitter: 'NaRoXy_Molo'
@@ -35,7 +36,7 @@ blog_url: 'Crédit'
 #email: 'hello@example.com'
 #messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, tiktok, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -60,6 +61,10 @@ social-links:
   - name: facebook
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
+    
+  - name: tiktok
+    url-pattern: tiktok.com/__USERNAME__
+    icon-class: fab fa-2x fa-tiktok-f
 
   - name: twitter
     url-pattern: twitter.com/__USERNAME__
