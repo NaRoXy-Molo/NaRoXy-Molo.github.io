@@ -64,7 +64,7 @@ social-links:
     
   - name: tiktok
     url-pattern: tiktok.com/__USERNAME__
-    icon-class: fab fa-tumblr
+    icon-class: fa-brands fa-tiktok
 
   - name: twitter
     url-pattern: twitter.com/__USERNAME__
